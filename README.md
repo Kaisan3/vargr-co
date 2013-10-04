@@ -1,4 +1,4 @@
 vargr-co
 ========
 
-this is for the company I'm helping "get born"
+this is being made for the company I'm helping "get born" :D
